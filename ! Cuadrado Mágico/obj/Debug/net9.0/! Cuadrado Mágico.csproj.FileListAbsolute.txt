@@ -1,0 +1,28 @@
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.exe
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.deps.json
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.runtimeconfig.json
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.dll
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.pdb
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.AssemblyInfoInputs.cache
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.AssemblyInfo.cs
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.csproj.CoreCompileInputs.cache
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.dll
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\refint\! Cuadrado Mágico.dll
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.pdb
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.genruntimeconfig.cache
+C:\Users\ender\Documents\Proyectos\! Cuadrado Mágico\obj\Debug\net9.0\ref\! Cuadrado Mágico.dll
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.exe
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.deps.json
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.runtimeconfig.json
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.dll
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\bin\Debug\net9.0\! Cuadrado Mágico.pdb
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.AssemblyInfoInputs.cache
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.AssemblyInfo.cs
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.csproj.CoreCompileInputs.cache
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.dll
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\refint\! Cuadrado Mágico.dll
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.pdb
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\! Cuadrado Mágico.genruntimeconfig.cache
+C:\Users\ender\Documents\! CLASE\BENA_CSHARP\! Cuadrado Mágico\obj\Debug\net9.0\ref\! Cuadrado Mágico.dll

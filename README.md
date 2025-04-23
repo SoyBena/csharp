@@ -6,9 +6,9 @@ En este repositorio hay una selección de proyectos en `C#` desarrollados durant
 Se trata de una resolución al conocido problema del `Cuadrado Mágico`. Planteo un algortimo que lo resuelve bajo las precondiciones e instrucciones enunciadas a continuación:
 - Número impar de filas y columnas (y mismo numero de ambas)
 - Se empieza por la fila central en la casilla que está más a la derecha, ahí va el uno
-- Para ir a la siguiente casilla: la siguiente de la última es la pregunta
-- Siguiente columna y siguiente fila si está libre (diagonal)
-- Si la siguiente está ocupada, entonces avanzar es ir hacia atrás SOLO en columnas
+- Para ir a la siguiente casilla, la siguiente de la última:
+ - Siguiente columna y siguiente fila si está libre (diagonal)
+ - Si la siguiente está ocupada, entonces avanzar es ir hacia atrás SOLO en columnas
 
 ### ADN [#](https://github.com/SoyBena/csharp/tree/main/ADN)
 ---
